@@ -21,5 +21,5 @@ Use GNU Make and Slic3r to generate G-Code.
 
 1. Generates ```Cube_100x100x100.stl```
 1. Generates ```Cube_100x100x100.png```
-  ![](Cube_100x100x100.png)
+  ![](examples/Cube_100x100x100.png)
 1. Then Slices to ```build/default-0.4-default/Cube_100x100x100-default.gcode```
