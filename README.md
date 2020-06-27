@@ -4,6 +4,8 @@ Use GNU Make and Slic3r to generate G-Code.
 
 ## Usage
 
+
+
 - ```git clone https://github.com/dapperfu/slic3r_make_tool.git ~/.Slic3r/make_tool```
 - Copy ```~/.Slic3r/make_tool/Makefile``` to your folder with STLs.
   - Copy ```~/.Slic3r/make_tool/Makefile.openscad``` to your OpenSCAD project folder
